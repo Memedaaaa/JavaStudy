@@ -1,0 +1,2 @@
+className = com.lg.jdk.reflect.Student
+methodName = toString
