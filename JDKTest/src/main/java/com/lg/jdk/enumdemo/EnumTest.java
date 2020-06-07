@@ -30,6 +30,7 @@ public class EnumTest {
     }
 
     public static void main(String[] args) {
+//
         EnumTest enumTest1 = new EnumTest(MsgStatus.DRAFT);
         enumTest1.getMsg();
         EnumTest enumTest2 = new EnumTest(MsgStatus.SENT);

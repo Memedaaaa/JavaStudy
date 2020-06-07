@@ -12,6 +12,7 @@
         <module>DesignPatterns</module>
         <module>DataStructuresAndAlgorithms</module>
         <module>JDKTest</module>
+        <module>SpringDemo</module>
     </modules>
 
 
